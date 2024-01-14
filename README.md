@@ -12,12 +12,11 @@ I'm a passionate Data Analyst and Data Scientist based in Barcelona (Spain), cur
 - 👁️ Computer Vision
 
 ## Work Experience
-### Data Analyst & Data Scientist | [Werfen]([LINK_TO_WERFEN](https://www.werfen.com/es/es))
+### Data Analyst & Data Scientist | [Werfen]([LINK_TO_WERFEN](https://www.uoc.edu/es/estudios/masters/master-universitario-data-science))
 Currently, I am a part of the Werfen data team in Barcelona, where I apply my analytical and scientific skills to enhance the value of data in decision-making processes.
 
 ## Featured Projects
-- 🌐 [Project 1 Name](LINK_TO_PROJECT_1): Brief description of the project and achievements.
-- 🚀 [Project 2 Name](LINK_TO_PROJECT_2): Another noteworthy initiative and results achieved.
+- 🆚 [deduplication-workhop]([LINK_TO_PROJECT_1](https://github.com/victor-pizarro/workshop-dedupe))
 
 ## Education
 - 🎓 [UOC](https://www.uoc.edu/portal/es/index.html) : Master in Data Science
