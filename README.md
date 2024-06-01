@@ -1,4 +1,4 @@
-# Hello, I'm Victor Pizarro! 👋
+# Hello, I'm Victor! 👋
 
 ![](https://github.com/victor-pizarro/victor-pizarro/assets/99116361/3560efef-538b-4e76-bbeb-5e59442c0d20)
 
