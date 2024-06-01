@@ -1,6 +1,6 @@
-# Welcome, I'm Victor! 👋
+## Welcome, I'm Victor! 👋
 
-![](https://github.com/victor-pizarro/victor-pizarro/assets/99116361/3560efef-538b-4e76-bbeb-5e59442c0d20)
+![](https://www.santanderopenacademy.com/es/blog/principales-aplicaciones-big-data/_jcr_content/root/hero/imageMobile.coreimg.jpeg/1709554003404/principales-aplicaciones-del-big-data-1.jpeg)
 
 ## About Me
 I'm a passionate Data Analyst and Data Scientist based in Barcelona (Spain), currently working with the data team at [Werfen](https://www.werfen.com/en) in Barcelona. My mission is to delve into the depths of data to extract meaningful insights and build intelligent solutions.
