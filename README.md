@@ -6,8 +6,8 @@
 I'm a passionate Data Analyst and Data Scientist based in Barcelona (Spain), currently working with the data team at [Werfen](https://www.werfen.com/en) in Barcelona. My mission is to delve into the depths of data to extract meaningful insights and build intelligent solutions.
 
 ## Areas of Expertise
-- 📊 Data Science
-- 🤖 Artificial Intelligence
+- 🔍 Data analysis
+- 📊 Machine Learning
 - 🚀 Deep Learning
 - 👁️ Computer Vision
 
