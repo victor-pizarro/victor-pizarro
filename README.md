@@ -1,7 +1,5 @@
 ## Welcome, I'm Victor! 👋
 
-![](https://www.santanderopenacademy.com/es/blog/principales-aplicaciones-big-data/_jcr_content/root/hero/imageMobile.coreimg.jpeg/1709554003404/principales-aplicaciones-del-big-data-1.jpeg)
-
 ## About Me
 I'm a passionate Data Analyst and Data Scientist based in Barcelona (Spain), currently working with the data team at [Werfen](https://www.werfen.com/en) in Barcelona. My mission is to delve into the depths of data to extract meaningful insights and build intelligent solutions.
 
