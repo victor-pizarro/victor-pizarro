@@ -1,26 +1,58 @@
-## Welcome, I'm Victor! 👋
+# 👋 Hi, I'm Víctor
 
-## About Me
-I'm a passionate Data Analyst and Data Scientist based in Barcelona (Spain), currently working with the data team at [Werfen](https://www.werfen.com/en) in Barcelona. My mission is to delve into the depths of data to extract meaningful insights and build intelligent solutions.
+## 🚀 About Me
+Data professional based in Barcelona, currently transitioning into **Data Engineering** while leveraging a strong background in **Data Science and Analytics**.
 
-## Areas of Expertise
-- 🔍 Data analysis
-- 📊 Machine Learning
-- 🚀 Deep Learning
-- 👁️ Computer Vision
+I specialize in building data-driven solutions end-to-end, from data ingestion and transformation to analytics and machine learning applications. My focus is on creating scalable, reliable, and production-ready data systems.
 
-## Work Experience
-### Data Analyst & Data Scientist | [Werfen]([LINK_TO_WERFEN](https://www.uoc.edu/es/estudios/masters/master-universitario-data-science))
-Currently, I am a part of the Data & Analytics Team in Barcelona, where I apply my analytical and scientific skills to enhance the value of data in decision-making processes.
+In parallel, I'm building **WhiteBox Academy**, an initiative aimed at teaching programming and data skills in a practical, real-world oriented way.
 
-## Featured Projects
-- 🆚 [deduplication-workhop]([LINK_TO_PROJECT_1](https://github.com/victor-pizarro/workshop-dedupe))
+---
 
-## Education
-- 🎓 [UOC](https://www.uoc.edu/portal/es/index.html) : Master in Data Science
+## 🧠 Core Expertise
+- ⚙️ Data Engineering (ETL/ELT, data modeling, pipelines)
+- 📊 Data Analytics & Visualization
+- 📈 Machine Learning
+- 🐍 Python & SQL
 
-## Connect With Me
-I'm always open to new connections and collaborations! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/victor-pizarro-martiartu/).
+---
 
-## Let's Talk Data and AI!
-If you share my passion for data science and artificial intelligence, let's have a conversation! I'm excited to explore new opportunities and contribute to mutual growth in these fascinating fields.
+## 💼 Experience
+### Data Analyst / Analytics Engineer | Werfen  
+Working within the **LAB & Global Data Team** in the **Data & Digital Innovation** department.
+
+- Design, develop, and maintain data models and transformation pipelines for analytics and reporting
+- Translate business requirements into scalable data solutions, enabling data-driven decision-making
+- Perform exploratory data analysis to identify trends, anomalies, and opportunities for optimization
+- Collaborate cross-functionally with data engineers, analysts, and business stakeholders
+- Review and validate Pull Requests, ensuring code quality, consistency, and best practices
+- Contribute to improving data workflows, documentation, and development standards
+
+---
+
+## 📂 Featured Projects
+- 🔗 **Deduplication Workshop**  
+  Practical project focused on record linkage and data cleaning techniques  
+  👉 https://github.com/victor-pizarro/workshop-dedupe
+
+---
+
+## 🎓 Education
+- 🎓 Bachelor’s Degree in Naval Engineering  
+- 📊 Data Analytics Bootcamp | Ironhack  
+- 📈 Data Science Bootcamp | Impelia 
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/victor-pizarro-martiartu/
+
+---
+
+## 🤝 Let's Build
+I'm always open to:
+- Data Engineering opportunities
+- Collaborations on data projects
+- Teaching and mentoring through WhiteBox Academy
+
+If you're working on something interesting in data, feel free to reach out 🚀
